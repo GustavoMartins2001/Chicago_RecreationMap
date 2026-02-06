@@ -1,0 +1,2 @@
+API_KEY=9qcgriqqdesg7cay7fzlsubik
+API_KEY_SECRET=wcj2mf5nkyxpteiwwpkbn3lztmcbv5sozm2h4hau1p9up0oxl
